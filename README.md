@@ -1,4 +1,4 @@
-### Hey eu Marlus Silva, atualmente sou estudando de Análise e Desenvolvimento de Software (T.I.). Estou muito interessado em aprender novas tecnologias e usá-las para criar algo útil ou melhorar os softwares existentes.
+### Hey! Eu sou o Marlus Silva, atualmente sou estudando de Análise e Desenvolvimento de Software (T.I.). Estou muito interessado em aprender novas tecnologias e usá-las para criar algo útil ou melhorar os softwares existentes.
 ⚡ Curiosidade: adoro me conectar com as pessoas e aprender sobre sua jornada profissional. Isso me ajuda a abrir minha mente para diferentes perspectivas em vários domínios. 🖐🏾
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/@DevMarlus)
