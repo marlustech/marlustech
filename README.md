@@ -1,5 +1,5 @@
 ### Hey! Eu sou o Marlus Silva, atualmente sou estudante de Análise e Desenvolvimento de Software (T.I.). Estou muito interessado em aprender novas tecnologias e usá-las para criar algo útil ou melhorar os softwares existentes. Aqui é um marco de uma trajetória, onde vou compartilhar tudo do início até alcançar o nível de ser um programador profissional.
-⚡ Curiosidade: adoro me conectar com as pessoas e aprender sobre sua jornada profissional. Isso me ajuda a abrir minha mente para diferentes perspectivas em vários domínios. 🖐🏾
+###⚡ Curiosidade: adoro me conectar com as pessoas e aprender sobre sua jornada profissional. Isso me ajuda a abrir minha mente para diferentes perspectivas em vários domínios. 🖐🏾
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/@DevMarlus)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlus-ulisses-248265353/)
