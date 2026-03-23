@@ -1,20 +1,27 @@
 ### Olá, meu nome é Marlus Silva, atualmente sou estudante de Engenharia de Software. Estou muito focado e interessado em aprender novas tecnologias e usá-las para criar algo útil ou melhorar os softwares existentes. Aqui é um marco de uma trajetória, onde vou compartilhar tudo do início até alcançar o nível de ser um programador profissional.
 ⚡Curiosidade: adoro me conectar com as pessoas e aprender sobre sua jornada profissional. Isso me ajuda a abrir minha mente para diferentes perspectivas em vários domínios. 🖐🏾
 
+
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/@DevMarlus)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlus-ulisses-248265353/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlusulisses.dev/?__pwa=1#)
 
+
 ### 📊 Estatísticas
+
 
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marlustech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    src="https://github-readme-stats.vercel.app/api?username=marlustech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/toplangs/username=marlustech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+
+<img align="left" alt="GitHub Stats" height="200" 
+  src="https://github-readme-stats.vercel.app/api/toplangs/username=marlustech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
 
+
 ## Tecnologias que eu utilizo:
+
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
