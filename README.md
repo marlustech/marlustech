@@ -1,6 +1,6 @@
 # Olá, eu sou o Marlus Silva 👋
 
-Atualmente sou estudante de Engenharia de Software. Estou muito focado e interessado em aprender novas tecnologias e usá-las para criar algo útil ou melhorar os softwares existentes. Aqui é um marco de uma trajetória, onde vou compartilhar tudo do início até alcançar o nível de ser um programador profissional.
+Tenho focado em projetos pessoais, colocando em prática conhecimentos acadêmicos e curiosidades  em aprender coisas novas para me aprimorar e desenvolver novas habilidades que possam ser úteis para resolução de problemas reais. O objetivo é sempre estar atualizando o portfólio com projetos inovadores a fim de adquirir experiências que contribua com o mundo da tecnologia
 
 ⚡ **Curiosidade:** adoro me conectar com as pessoas e aprender sobre sua jornada profissional. Isso me ajuda a abrir minha mente para diferentes perspectivas em vários domínios. 🖐🏾
 
