@@ -12,13 +12,11 @@ Atualmente sou estudante de Engenharia de Software. Estou muito focado e interes
 
 ## 📊 Estatísticas
 
-<!-- Se os gráficos não carregarem, troque "github-readme-stats.vercel.app" pelo domínio da sua própria instância na Vercel (nas duas imagens). -->
 <p align="center">
-  <img alt="Estatísticas do GitHub" height="200"
-    src="https://github-readme-stats.vercel.app/api?username=marlustech&show_icons=true&theme=tokyonight&locale=pt-br" />
-  &nbsp;
-  <img alt="Linguagens mais usadas" height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlustech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img alt="Estatísticas do GitHub" width="48%"
+    src="https://github.com/marlustech/marlustech/raw/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img alt="Linguagens mais usadas" width="48%"
+    src="https://github.com/marlustech/marlustech/raw/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 </p>
 
 ## 🛠️ Tecnologias que eu utilizo
